@@ -26,4 +26,4 @@ A comprehensive backend logistics and shipment tracking system built with **ASP.
 
 ### 📫 Let's Connect!
 * **Email:** [samiamara.dev@gmail.com](mailto:samiamara.dev@gmail.com)
-* **Location:** Amman, Jordan 🇯🇴
+* **Location:** Amman, Jordan
