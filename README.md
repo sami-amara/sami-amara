@@ -1,14 +1,29 @@
-## Hi there 👋
+
 
 # Hi, I'm Sami Amara! 👋
-### Full-Stack .NET Developer
+### Full-Stack .NET Developer 
 
-A passionate Software Developer specialized in building robust web applications using C#, ASP.NET Core, and modern architecture.
+A results-driven Software Developer based in Amman, Jordan, specializing in building robust, scalable web applications using C#, ASP.NET Core, and modern clean architecture. 
 
-- 🛠️ **Currently working on:** `MyShipping` - A comprehensive shipping and logistics solution built with ASP.NET Core Web API.
-- 🚀 **Tech Stack:** C#, .NET, Entity Framework Core, SQL Server, Git.
-- 📫 **How to reach me:** [samiamara.dev@gmail.com](mailto:samiamara.dev@gmail.com)
+---
 
-### 📈 My Core Projects
-* **MyShipping:** A clean-architecture .NET application managing shipments, states, and notification workflows.
+### 🛠️ My Tech Stack & Tools
+* **Languages:** C#, SQL, JavaScript
+* **Frameworks & Libraries:** ASP.NET Core Web API, Entity Framework Core
+* **Databases:** SQL Server
+* **Tools & DevOps:** Git, GitHub, Cmder, SendGrid API
 
+---
+
+### 🚀 Featured Project
+#### 📦 [MyShipping](https://github.com)
+A comprehensive backend logistics and shipment tracking system built with **ASP.NET Core Web API**. 
+* Implements **Clean Architecture** principles to separate core business logic from infrastructure.
+* Uses the **State Design Pattern** to dynamically manage shipment workflow lifecycles securely.
+* Integrates notification pipelines for real-time status updates.
+
+---
+
+### 📫 Let's Connect!
+* **Email:** [samiamara.dev@gmail.com](mailto:samiamara.dev@gmail.com)
+* **Location:** Amman, Jordan 🇯🇴
