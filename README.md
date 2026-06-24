@@ -7,6 +7,13 @@ A results-driven Software Developer based in Amman, Jordan, specializing in buil
 
 ---
 
+This repository contains my professional CV as a Junior .NET Developer.
+
+## 📄 CV
+- [Download CV (Google Drive)](https://drive.google.com/file/d/1WZeZClIisGb0SrxjgfM0Mt-ihwQ4-zKE/view?usp=drive_link)
+- [View CV (GitHub PDF)](Sami_Amara_Junior_NET_Developer_CV.pdf)
+
+
 ### 🛠️ My Tech Stack & Tools
 * **Languages:** C#, SQL, JavaScript
 * **Frameworks & Libraries:** ASP.NET Core Web API, Entity Framework Core
