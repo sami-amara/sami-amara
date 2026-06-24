@@ -3,11 +3,7 @@
 # Hi, I'm Sami Amara! 👋
 ### Full-Stack .NET Developer 
 
-A results-driven Software Developer based in Amman, Jordan, specializing in building robust, scalable web applications using C#, ASP.NET Core, and modern clean architecture. 
-
----
-
-This repository contains my professional CV as a Junior .NET Developer.
+A results-driven Software Developer based in Amman, Jordan, specializing in building robust, scalable web applications using C#, ASP.NET Core, and modern clean architecture.
 
 
 ---
