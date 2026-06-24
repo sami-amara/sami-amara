@@ -16,7 +16,7 @@ A results-driven Software Developer based in Amman, Jordan, specializing in buil
 ---
 
 ### 🚀 Featured Project
-#### 📦 [MyShipping](https://github.com)
+#### 📦 [MyShipping](https://github.com/sami-amara/MyShipping)
 A comprehensive backend logistics and shipment tracking system built with **ASP.NET Core Web API**. 
 * Implements **Clean Architecture** principles to separate core business logic from infrastructure.
 * Uses the **State Design Pattern** to dynamically manage shipment workflow lifecycles securely.
@@ -25,5 +25,6 @@ A comprehensive backend logistics and shipment tracking system built with **ASP.
 ---
 
 ### 📫 Let's Connect!
+* **LinkdIn:** [linkedin.com/in//sami-amara-032b70416/](https://www.linkedin.com/in/sami-amara-032b70416/)
 * **Email:** [samiamara.dev@gmail.com](mailto:samiamara.dev@gmail.com)
 * **Location:** Amman, Jordan
