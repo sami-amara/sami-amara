@@ -11,7 +11,7 @@ This repository contains my professional CV as a Junior .NET Developer.
 
 ## 📄 CV
 - [Download CV](https://drive.google.com/file/d/1WZeZClIisGb0SrxjgfM0Mt-ihwQ4-zKE/view?usp=drive_link)
-
+- [CV Repository](https://github.com/sami-amara/CV-SamiAmara)
 ---
 
 ### 🛠️ My Tech Stack & Tools
