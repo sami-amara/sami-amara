@@ -32,5 +32,8 @@ A comprehensive backend logistics and shipment tracking system built with **ASP.
 ---
 
 ### 📫 Let's Connect!
-* **LinkdIn:** [linkedin.com/in//sami-amara-032b70416/](https://www.linkedin.com/in/sami-amara-032b70416/)
+-  [LinkedIn Profile](https://www.linkedin.com/in/sami-amara-032b70416/) - Overview LinkdIn
+-  [CV Repository](https://github.com/sami-amara/CV-SamiAmara) – Professional CV and career highlights.
 * **Location:** Amman, Jordan
+
+
